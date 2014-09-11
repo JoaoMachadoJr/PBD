@@ -11,6 +11,7 @@ package testegit2;
  * @author Juninho
  */
 public class Testegit2 {
+    int aux;
 
     /**
      * @param args the command line arguments
